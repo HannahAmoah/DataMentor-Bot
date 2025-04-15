@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "intent": "Greeting",
+      "examples": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?"
+      ]
+    },
+    {
+      "intent": "Farewell",
+      "examples": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Feel free to ask anytime."
+      ]
+    },
+    {
+      "intent": "Introduction_to_Data_Science",
+      "examples": [
+        "What is data science?",
+        "Explain data science in simple terms.",
+        "Why is data science important?"
+      ],
+      "responses": [
+        "Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract insights and knowledge from structured and unstructured data. It combines elements of statistics, computer science, and domain knowledge to solve real-world problems."
+      ]
+    },
+    {
+      "intent": "Skills_Required_for_Data_Science",
+      "examples": [
+        "What skills do I need to become a data scientist?",
+        "What are the key skills in data science?",
+        "How can I improve my data science skills?"
+      ],
+      "responses": [
+        "To become a data scientist, you need a combination of technical and soft skills:",
+        "- **Technical Skills:** Python, R, SQL, Machine Learning, Deep Learning, Data Visualization, Big Data Technologies (Hadoop, Spark), Cloud Computing (AWS, Azure, GCP)",
+        "- **Soft Skills:** Problem-Solving, Communication, Critical Thinking, Business Acumen, Teamwork"
+      ]
+    },
+    {
+      "intent": "Tools_Used_in_Data_Science",
+      "examples": [
+        "What are the most popular tools in data science?",
+        "Which programming languages are used in data science?",
+        "What software should I learn for data science?"
+      ],
+      "responses": [
+        "Some commonly used tools in data science include:",
+        "- **Programming Languages:** Python, R, SQL",
+        "- **Machine Learning Libraries:** Scikit-Learn, TensorFlow, PyTorch",
+        "- **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau",
+        "- **Big Data & Cloud:** Hadoop, Apache Spark, AWS, Google Cloud Platform",
+        "- **Database Management:** MySQL, PostgreSQL, MongoDB"
+      ]
+    },
+    {
+      "intent": "Roadmap_for_Data_Science",
+      "examples": [
+        "How do I start my journey in data science?",
+        "What is the roadmap to becoming a data scientist?",
+        "Steps to learn data science from scratch?"
+      ],
+      "responses": [
+        "A typical roadmap for learning data science includes:",
+        "1. **Learn Programming:** Python or R",
+        "2. **Understand Mathematics & Statistics:** Linear Algebra, Probability, Hypothesis Testing",
+        "3. **Master Data Wrangling & Visualization:** Pandas, Matplotlib, Seaborn",
+        "4. **Learn Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, PyTorch",
+        "5. **Work with Databases & Big Data:** SQL, Hadoop, Spark",
+        "6. **Gain Experience through Projects & Internships**",
+        "7. **Build a Portfolio & Apply for Jobs**"
+      ]
+    },
+    {
+      "intent": "Career_Opportunities_in_Data_Science",
+      "examples": [
+        "How do I get an internship in data science?",
+        "What are the career opportunities in data science?",
+        "Where can I find data science jobs?"
+      ],
+      "responses": [
+        "Career paths in data science include:",
+        "- **Data Analyst**",
+        "- **Machine Learning Engineer**",
+        "- **Data Engineer**",
+        "- **AI Researcher**",
+        "- **Business Intelligence Analyst**",
+        "Internship opportunities can be found on platforms like LinkedIn, Kaggle, GitHub, and company websites."
+      ]
+    },
+    {
+      "intent": "Soft_Skills_for_Data_Scientists",
+      "examples": [
+        "What soft skills are needed for data science?",
+        "How important are communication skills in data science?",
+        "What non-technical skills do data scientists need?"
+      ],
+      "responses": [
+        "Soft skills essential for data science include:",
+        "- **Problem-Solving:** Ability to analyze and break down complex problems",
+        "- **Communication:** Explaining insights effectively to non-technical stakeholders",
+        "- **Critical Thinking:** Evaluating and interpreting data accurately",
+        "- **Collaboration:** Working in teams across multiple disciplines",
+        "- **Time Management:** Handling multiple projects efficiently"
+      ]
+    },
+    {
+      "intent": "Salary_of_Data_Scientists",
+      "examples": [
+        "What is the average salary of a data scientist?",
+        "How much do data scientists earn?",
+        "What is the salary range for entry-level data scientists?"
+      ],
+      "responses": [
+        "Salaries for data scientists vary based on location, experience, and industry:",
+        "- **Entry-Level:** $70,000 - $100,000 per year",
+        "- **Mid-Level:** $100,000 - $150,000 per year",
+        "- **Senior-Level:** $150,000+ per year",
+        "Tech hubs like the USA, UK, and Germany offer higher salaries compared to other regions."
+      ]
+    }
+  ]
+}
